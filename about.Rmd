@@ -31,7 +31,7 @@ permalink: /about
   </div>
   <div class="column">
   <p style= "font-size: 20px"><a href="mailto:m.truelovehill@ed.ac.uk"> Monica Truelove-Hill</a></p>
-I'm currently a Lecturer in Psychological Research Methods based in the Clinical Psychology department at the University of Edinburgh. I migrated from a fixed-term role in the Psychology department, where they have an <a href="https://uoepsy.github.io/">excellent Data Analysis teaching team</a>. Working with them inspired me to develop and design my own open-access materials, leading to what you see here. 
+I'm currently a Lecturer in Psychological Research Methods based in the Clinical Psychology department at the University of Edinburgh. I migrated from a fixed-term role in the Psychology department, where they have an <a href="https://uoepsy.github.io/" target="_blank">excellent Data Analysis teaching team</a>. Working with them inspired me to develop and design my own open-access materials, leading to what you see here. 
   
 I recognise that most Psychology students consider statistics to be boring, difficult, and/or anxiety provoking. I love the challenge of presenting these concepts in a way that's engaging and generally accessible to a wide audience. 
 

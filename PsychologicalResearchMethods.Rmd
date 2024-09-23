@@ -22,8 +22,8 @@ This course aims to provide students with both a theoretical and practical under
 
 This course is ongoing; more lectures will be added as the semester progresses.
 
-+ [Exploring Your Data](https://mtruelovehill.github.io/PRM/Lectures/Week01_ExploringData_Lecture.html#1)
-+ [Introduction to Null-Hypothesis Statistical Testing](https://mtruelovehill.github.io/PRM/Lectures/Week03_NHST_lecture.html#1)
++ <a href="https://mtruelovehill.github.io/PRM/Lectures/Week01_ExploringData_Lecture.html#1" target="_blank">Exploring Your Data </a>
++ <a href="https://mtruelovehill.github.io/PRM/Lectures/Week03_NHST_lecture.html#1" target="_blank">Introduction to Null-Hypothesis Statistical Testing </a>
 
 <br>
 <br>
