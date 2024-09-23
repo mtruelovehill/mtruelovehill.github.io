@@ -19,17 +19,16 @@ c5 <- '#85216B'
 ```
 
 
-.pull-left[
-```{r, echo = F}
-knitr::include_graphics('docs/images/PRMimg.png')
+<p align = 'center'>
+```{r, echo = F, out.width = '40%'}
+knitr::include_graphics('https://mtruelovehill.github.io/images/PRMimg.png')
 ```
-]
+```{r, echo = F, out.width = '40%'}
 
-.pull-right[
-```{r, echo = F}
-knitr::include_graphics('docs/images/ISAPimg.png')
+knitr::include_graphics('https://mtruelovehill.github.io/images/ISAPimg.png')
 ```
-]
+</p>
+
 
 ### Course Description
 
