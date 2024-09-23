@@ -1,6 +1,5 @@
 ---
 title: 'Statistics for Clinical Psychology Students'
-subtitle: 'Content by Course'
 ---
 
 <link href="css/style.css" rel="stylesheet"></link> 
