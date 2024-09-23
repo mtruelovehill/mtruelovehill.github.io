@@ -1,5 +1,5 @@
 ---
-title: 'Psychological Research Methods: Data Management & Analysis'
+title: 'Content by Course'
 subtitle: '2024/2025'
 ---
 
@@ -10,15 +10,26 @@ baseColor <- '#4CA384'
 accent1 <- '#9AD079'
 accent2 <- '#18778C'
 accent3 <- '#19424C'
+
+c1 <- '#A92E5E'
+c2 <- '#CB4149'
+c3 <- '#F78311'
+c4 <- '#FCAD12'
+c5 <- '#85216B'
 ```
 
 
+.pull-left[
+```{r, echo = F}
+knitr::include_graphics('docs/images/PRMimg.png')
+```
+]
 
-### Instructor
-
-[Monica Truelove-Hill](https://www.ed.ac.uk/profile/monica-truelove-hill)
-
-<p><a href="mailto:m.truelovehill@ed.ac.uk">m.truelovehill@ed.ac.uk</a></p>
+.pull-right[
+```{r, echo = F}
+knitr::include_graphics('docs/images/ISAPimg.png')
+```
+]
 
 ### Course Description
 
@@ -41,4 +52,4 @@ This option is a core course for the MSc in Psychology of Mental Health (Convers
 | 11   |25/11 | Nonparametric Tests | [Slides]() | [Workbook]() | TBD |
 
 
-  <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">All work available on this site</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p> 
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">All work available on this site</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p> 

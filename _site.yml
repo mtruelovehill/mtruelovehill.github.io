@@ -1,13 +1,13 @@
-name: "my-website"
+name: "statistics-for-clinical-psychology-students"
 output_dir: docs
 output:
   html_document:
     includes:
       in_header: header.html
 navbar:
-  title: "My Website"
+  title: "Statistics for Clinical Psychology Students"
   left:
-    - text: "Home"
+    - text: "Available Courses"
       href: index.html
     - text: "Lectures"
       href: lectures.html
