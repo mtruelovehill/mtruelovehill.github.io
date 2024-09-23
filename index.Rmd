@@ -20,10 +20,10 @@ c5 <- '#85216B'
 </br>
 
 <p align='center'>
-<a href = "https://mtruelovehill.github.io/PsychologicalResearchMethods">
+<a href = "https://mtruelovehill.github.io/PsychologicalResearchMethods.html">
 <img src = 'https://mtruelovehill.github.io/images/PRMimg.png' style = 'margin-right:45px' width = '300px'>
 </a>
-<a href = "https://mtruelovehill.github.io/InferentialStatisticsinAppliedPsychology">
+<a href = "https://mtruelovehill.github.io/InferentialStatisticsinAppliedPsychology.html">
 <img src = 'https://mtruelovehill.github.io/images/ISAPimg.png' width = '300px'>
 </a>
 </p>
