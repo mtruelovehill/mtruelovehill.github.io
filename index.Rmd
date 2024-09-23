@@ -19,15 +19,22 @@ c5 <- '#85216B'
 ```
 
 
-<p align = 'center'>
-`r knitr::include_graphics('https://mtruelovehill.github.io/images/PRMimg_smaller.png')`
-```{r, echo = F, out.width = '40%'}
-knitr::include_graphics('https://mtruelovehill.github.io/images/PRMimg_smaller.png')
-```
-```{r, echo = F, out.width = '40%'}
 
-knitr::include_graphics('https://mtruelovehill.github.io/images/ISAPimg_smaller.png')
+
+<p align = 'center'>
+<a href = "https://mtruelovehill.github.io/PRM/">
+```{r, echo = F}
+knitr::include_graphics('~/Desktop/UofE/Teaching/mtruelovehill.github.io/docs/images/PRMimg_smaller.png')
+#knitr::include_graphics('https://mtruelovehill.github.io/images/PRMimg_smaller.png')
 ```
+</a>
+
+<a href = "https://mtruelovehill.github.io/ISAP/">
+```{r, echo = F}
+
+#knitr::include_graphics('https://mtruelovehill.github.io/images/ISAPimg_smaller.png')
+```
+</a>
 </p>
 
 
