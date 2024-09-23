@@ -1,6 +1,6 @@
 ---
-title: 'Content by Course'
-subtitle: '2024/2025'
+title: 'Statistics for Clinical Psychology Students'
+subtitle: 'Content by Course'
 ---
 
 <link href="css/style.css" rel="stylesheet"></link> 
@@ -18,45 +18,18 @@ c4 <- '#FCAD12'
 c5 <- '#85216B'
 ```
 
+</br>
 
-
-
-<p align = 'center'>
-<a href = "https://mtruelovehill.github.io/PRM/">
-```{r, echo = F}
-knitr::include_graphics('~/Desktop/UofE/Teaching/mtruelovehill.github.io/docs/images/PRMimg_smaller.png')
-#knitr::include_graphics('https://mtruelovehill.github.io/images/PRMimg_smaller.png')
-```
+<p align='center'>
+<a href = "https://mtruelovehill.github.io/PsychologicalResearchMethods">
+<img src = 'https://mtruelovehill.github.io/images/PRMimg_smaller.png' style = 'margin-right:45px'>
 </a>
-
-<a href = "https://mtruelovehill.github.io/ISAP/">
-```{r, echo = F}
-
-#knitr::include_graphics('https://mtruelovehill.github.io/images/ISAPimg_smaller.png')
-```
+<a href = "https://mtruelovehill.github.io/InferentialStatisticsinAppliedPsychology">
+<img src = 'https://mtruelovehill.github.io/images/ISAPimg_smaller.png'>
 </a>
 </p>
 
-
-### Course Description
-
-This option is a core course for the MSc in Psychology of Mental Health (Conversion) at the University of Edinburgh. This course aims to provide students with both a theoretical and practical understanding of the use of statistics in psychology. It will familiarise students with both quantitative and qualitative statistical methods, with a primary focus on quantitative methods. Over the course, lectures will cover topics such as t-tests, ANOVA, regression, and thematic analysis, among others. Additionally, students will attend labs during which they gain hands-on practice implementing the content covered in lectures.
-
-### Course Overview
-
-| Week | W/C  | Content                                                 | Lectures | Labs                    | Reading |
-|:----:|:----:|:--------------------------------------------------------|:--------:|:-----------------------:|:--------|
-| 1    |16/09 | Exploring Your Data | [Slides](https://mtruelovehill.github.io/PRM/Lectures/Week01_ExploringData_Lecture.html)| [Workbook](https://truelovehill.shinyapps.io/week01_exploringdata_lab/)| TBD |
-| 2    |23/09 | Thematic Analysis| [Slides]() | [Workbook]() | TBD |
-| 3    |30/09 | Intro to Null Hypothesis Statistical Testing | [Slides]() | [Workbook]() | TBD |
-| 4    |07/10 | $t$-tests | [Slides]() | [Workbook]() | TBD |
-| 5    |14/10 | ANOVA I | [Slides]() | [Workbook]() | TBD |
-| <b>6</b>|<b>21/10</b>|<b>Flexible Learning Week</b>| |
-| 7    |28/10 | ANOVA II | [Slides]() | [Workbook]() | TBD |
-| 8    |04/11 | Correlation | [Slides]() | [Workbook]() | TBD |
-| 9    |11/11 | Regression I | [Slides]() | [Workbook]() | TBD |
-| 10   |18/11 | Regression II | [Slides]() | [Workbook]() | TBD |
-| 11   |25/11 | Nonparametric Tests | [Slides]() | [Workbook]() | TBD |
+<br>
 
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">All work available on this site</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p> 

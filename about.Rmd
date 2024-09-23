@@ -1,5 +1,7 @@
 ---
-  title: "About the Instructor"
+layout: page
+title: "About the Instructor"
+permalink: /about
 ---
   
 <link href="css/style.css" rel="stylesheet"></link> 

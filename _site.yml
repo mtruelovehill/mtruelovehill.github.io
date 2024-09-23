@@ -2,14 +2,17 @@ name: "statistics-for-clinical-psychology-students"
 output_dir: docs
 output:
   html_document:
+    theme: yeti
     includes:
       in_header: header.html
 navbar:
   title: "Statistics for Clinical Psychology Students"
   left:
     - text: "Available Courses"
-      href: index.html
-    - text: "Lectures"
-      href: lectures.html
-    - text: "Labs"
-      href: labs.html
+      menu:
+      - text: Psychological Research Methods
+        href: PsychologicalResearchMethods.html
+      - text: Inferential Statistics in Applied Psychology
+        href: InferentialStatisticsinAppliedPsychology.html
+    - text: "About the Instructor"
+      href: about.html
