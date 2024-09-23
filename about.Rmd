@@ -6,10 +6,23 @@ permalink: /about
   
 <link href="css/style.css" rel="stylesheet"></link> 
 
+<style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+</style>
+
+<div class = 'container'>
+
+<img src = 'https://mtruelovehill.github.io/images/ISAPimg.png' width = '400px'>
+
 [Monica Truelove-Hill](https://www.ed.ac.uk/profile/monica-truelove-hill)
 
 <p><a href="mailto:m.truelovehill@ed.ac.uk">m.truelovehill@ed.ac.uk</a></p>
 
+</div>
 
 I'm currently a Lecturer in Psychological Research Methods based in the Clinical Psychology department at the University of Edinburgh. I migrated from a fixed-term role in the Psychology department, where they have an [excellent Data Analysis/Research Methods team](https://uoepsy.github.io/). Working with them inspired me to develop and design my own open-access materials, leading to what you see here. 
 
