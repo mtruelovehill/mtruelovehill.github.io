@@ -20,7 +20,7 @@ c5 <- '#85216B'
 </br>
 
 <p align='center'>
-<a href = "https://mtruelovehill.github.io/PsychologicalResearchMethods.html">
+<a href = "https://mtruelovehill.github.io/PRM/">
 <img src = 'https://mtruelovehill.github.io/images/PRMimg.png' style = 'margin-right:45px' width = '300px'>
 </a>
 <a href = "https://mtruelovehill.github.io/InferentialStatisticsinAppliedPsychology.html">
