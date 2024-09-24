@@ -11,7 +11,7 @@ navbar:
     - text: "Available Courses"
       menu:
       - text: Psychological Research Methods
-        href: PsychologicalResearchMethods.html
+        href: https://mtruelovehill.github.io/PRM/
       - text: Inferential Statistics in Applied Psychology
         href: InferentialStatisticsinAppliedPsychology.html
     - text: "About the Instructor"
