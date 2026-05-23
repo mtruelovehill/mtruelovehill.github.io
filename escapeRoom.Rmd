@@ -1,13 +1,16 @@
 ---
 layout: page
-title: 'Clue for the Red Group'
+title: 'Congratulations Red Group!'
 permalink: /margotsescaperoom
 ---
-  
-<link href="css/style.css" rel="stylesheet"></link> 
 
+<br>
 
-The key to open the lockbox is closer than you think. It's just behind these words.
+You've found all the popsicle sticks! You've almost made it to the key. You just need to solve this riddle:
+
+<br>
+
+<i><b>The key to open the lockbox is closer than you think. It's just behind these words.</i></b>
 
 
 
