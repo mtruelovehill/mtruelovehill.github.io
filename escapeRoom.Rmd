@@ -1,0 +1,14 @@
+---
+layout: page
+title: 'Clue for the Red Group'
+permalink: /margotsescaperoom
+---
+  
+<link href="css/style.css" rel="stylesheet"></link> 
+
+
+The key to open the lockbox is closer than you think. It's just behind these words.
+
+
+
+
